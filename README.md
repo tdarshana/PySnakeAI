@@ -8,8 +8,6 @@ This uses, [Bellman Equation](https://en.wikipedia.org/wiki/Bellman_equation) an
 ![Game Running](game-runnig.png)
 ![Game Plottng Data](plot.png)
 
----
-
 ## Dependencies
 
 ```
@@ -20,12 +18,9 @@ torchvision
 matplotlib
 ipython
 ```
----
 
 ## Todo
 1. Resolve the issues with self containing loop
-
----
 
 ## License
 This code is under [MIT License](LICENSE). Its free to modify and distribute. ♥
